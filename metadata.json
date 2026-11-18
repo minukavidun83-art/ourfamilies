@@ -1,0 +1,8 @@
+{
+  "name": "OUR FAMILIES",
+  "description": "A bilingual Sinhala and English family portal for connecting 8 families with photo galleries, birthdays, trips, special events, and real-time family chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
